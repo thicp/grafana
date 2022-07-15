@@ -1,0 +1,3572 @@
+[
+ {
+  "key": "h0001",
+  "Nome": "CERRO CORÁ",
+  "latitude": -235410797,
+  "longitude": -467000846
+ },
+ {
+  "key": "h0002",
+  "Nome": "CARDOSO DE ALMEIDA",
+  "latitude": -235433901,
+  "longitude": -466726474
+ },
+ {
+  "key": "h0003",
+  "Nome": "RODRIGUES ALVES",
+  "latitude": -235826098,
+  "longitude": -466402265
+ },
+ {
+  "key": "h0004",
+  "Nome": "SÃO CAETANO HAB",
+  "latitude": -236166409,
+  "longitude": -465653880
+ },
+ {
+  "key": "h0005",
+  "Nome": "LINS DE VASCONCELOS",
+  "latitude": -235881800,
+  "longitude": -466302992
+ },
+ {
+  "key": "h0006",
+  "Nome": "SANTO ANDRÉ 1",
+  "latitude": -236458635,
+  "longitude": -465379652
+ },
+ {
+  "key": "h0008",
+  "Nome": "RICARDO JAFET",
+  "latitude": -236005861,
+  "longitude": -466240654
+ },
+ {
+  "key": "h0010",
+  "Nome": "SHOPPING ARICANDUVA HAB",
+  "latitude": -235661486,
+  "longitude": -465004701
+ },
+ {
+  "key": "h0011",
+  "Nome": "SÃO JOSÉ 1",
+  "latitude": -231846673,
+  "longitude": -458877873
+ },
+ {
+  "key": "h0012",
+  "Nome": "ARTUR ALVIM",
+  "latitude": -235347232,
+  "longitude": -464762326
+ },
+ {
+  "key": "h0014",
+  "Nome": "JACAREÍ",
+  "latitude": -233058539,
+  "longitude": -459674170
+ },
+ {
+  "key": "h0016",
+  "Nome": "DOMINGOS DE MORAIS",
+  "latitude": -235972940,
+  "longitude": -466369333
+ },
+ {
+  "key": "h0017",
+  "Nome": "SANTO ANDRÉ 2",
+  "latitude": -236670969,
+  "longitude": -465213940
+ },
+ {
+  "key": "h0019",
+  "Nome": "CONCEIÇÃO",
+  "latitude": -236357495,
+  "longitude": -466408364
+ },
+ {
+  "key": "h0020",
+  "Nome": "MOOCA",
+  "latitude": -235578513,
+  "longitude": -466001712
+ },
+ {
+  "key": "h0021",
+  "Nome": "TREMEMBÉ",
+  "latitude": -234577289,
+  "longitude": -466167732
+ },
+ {
+  "key": "h0022",
+  "Nome": "TUCURUVI",
+  "latitude": -234905592,
+  "longitude": -466101493
+ },
+ {
+  "key": "h0024",
+  "Nome": "SAPOPEMBA",
+  "latitude": -236126199,
+  "longitude": -464940588
+ },
+ {
+  "key": "h0025",
+  "Nome": "INTERLAGOS",
+  "latitude": -236805336,
+  "longitude": -466878437
+ },
+ {
+  "key": "h0026",
+  "Nome": "OSASCO",
+  "latitude": -235357065,
+  "longitude": -467813966
+ },
+ {
+  "key": "h0027",
+  "Nome": "PIRACICABA 1",
+  "latitude": -227319769,
+  "longitude": -476376257
+ },
+ {
+  "key": "h0028",
+  "Nome": "AFONSO BRAZ",
+  "latitude": -235953798,
+  "longitude": -466694897
+ },
+ {
+  "key": "h0029",
+  "Nome": "AFONSINA",
+  "latitude": -236543721,
+  "longitude": -465681285
+ },
+ {
+  "key": "h0030",
+  "Nome": "RADIAL 1",
+  "latitude": -235326855,
+  "longitude": -465357361
+ },
+ {
+  "key": "h0031",
+  "Nome": "AUGUSTA HAB",
+  "latitude": -235590938,
+  "longitude": -466614467
+ },
+ {
+  "key": "h0032",
+  "Nome": "FÓRUM - SETE DE SETEMBRO",
+  "latitude": -235527570,
+  "longitude": -466347947
+ },
+ {
+  "key": "h0033",
+  "Nome": "FRANCISCO MORATO",
+  "latitude": -235867179,
+  "longitude": -467245384
+ },
+ {
+  "key": "h0034",
+  "Nome": "CLÉLIA",
+  "latitude": -235247615,
+  "longitude": -466975304
+ },
+ {
+  "key": "h0035",
+  "Nome": "ANHAIA MELLO",
+  "latitude": -235849533,
+  "longitude": -465804247
+ },
+ {
+  "key": "h0036",
+  "Nome": "JABAQUARA HAB",
+  "latitude": -236476244,
+  "longitude": -466397757
+ },
+ {
+  "key": "h0037",
+  "Nome": "CAMPINAS 1",
+  "latitude": -228907682,
+  "longitude": -470630022
+ },
+ {
+  "key": "h0038",
+  "Nome": "LIBERDADE 1 HAB",
+  "latitude": -235619243,
+  "longitude": -466389972
+ },
+ {
+  "key": "h0039",
+  "Nome": "GIOVANNI GRONCHI",
+  "latitude": -236243152,
+  "longitude": -467337024
+ },
+ {
+  "key": "h0040",
+  "Nome": "PIRITUBA",
+  "latitude": -234830354,
+  "longitude": -467223448
+ },
+ {
+  "key": "h0041",
+  "Nome": "ITABERABA",
+  "latitude": -234741887,
+  "longitude": -466702942
+ },
+ {
+  "key": "h0042",
+  "Nome": "GRAJAÚ",
+  "latitude": -237325537,
+  "longitude": -466969465
+ },
+ {
+  "key": "h0043",
+  "Nome": "CANTAREIRA",
+  "latitude": -234871236,
+  "longitude": -466211798
+ },
+ {
+  "key": "h0046",
+  "Nome": "CONCÓRDIA",
+  "latitude": -235416237,
+  "longitude": -466158668
+ },
+ {
+  "key": "h0048",
+  "Nome": "ALPHAVILLE HAB",
+  "latitude": -235035041,
+  "longitude": -468470941
+ },
+ {
+  "key": "h0049",
+  "Nome": "MARECHAL TITO 1",
+  "latitude": -234962218,
+  "longitude": -464027386
+ },
+ {
+  "key": "h0050",
+  "Nome": "CORIFEU",
+  "latitude": -235517481,
+  "longitude": -467574014
+ },
+ {
+  "key": "h0051",
+  "Nome": "CUPECÊ HAB",
+  "latitude": -236801786,
+  "longitude": -466398001
+ },
+ {
+  "key": "h0052",
+  "Nome": "LÍDER",
+  "latitude": -235536791,
+  "longitude": -464916209
+ },
+ {
+  "key": "h0053",
+  "Nome": "IPIRANGA",
+  "latitude": -235427049,
+  "longitude": -466403030
+ },
+ {
+  "key": "h0054",
+  "Nome": "SÃO BERNARDO DO CAMPO",
+  "latitude": -237046416,
+  "longitude": -465516622
+ },
+ {
+  "key": "h0055",
+  "Nome": "M BOI MIRIM",
+  "latitude": -236751621,
+  "longitude": -467485417
+ },
+ {
+  "key": "h0056",
+  "Nome": "SÃO MIGUEL",
+  "latitude": -235103744,
+  "longitude": -464987456
+ },
+ {
+  "key": "h0058",
+  "Nome": "MAUÁ",
+  "latitude": -236662089,
+  "longitude": -464653519
+ },
+ {
+  "key": "h0062",
+  "Nome": "RIBEIRÃO PRETO 1 HAB",
+  "latitude": -211849798,
+  "longitude": -478110954
+ },
+ {
+  "key": "h0063",
+  "Nome": "JUNDIAÍ 1",
+  "latitude": -231865434,
+  "longitude": -468928716
+ },
+ {
+  "key": "h0065",
+  "Nome": "CAMPO LIMPO",
+  "latitude": -236302691,
+  "longitude": -467700653
+ },
+ {
+  "key": "h0066",
+  "Nome": "GUARULHOS",
+  "latitude": -234543050,
+  "longitude": -465341374
+ },
+ {
+  "key": "h0067",
+  "Nome": "BARÃO DE STUDART",
+  "latitude": -37250263,
+  "longitude": -385032833
+ },
+ {
+  "key": "h0068",
+  "Nome": "SÃO JOSÉ 2",
+  "latitude": -232003888,
+  "longitude": -458852928
+ },
+ {
+  "key": "h0069",
+  "Nome": "CAMPO GRANDE 1",
+  "latitude": -228889578,
+  "longitude": -435604093
+ },
+ {
+  "key": "h0070",
+  "Nome": "CURITIBA 2 - HAUER",
+  "latitude": -254739554,
+  "longitude": -492511496
+ },
+ {
+  "key": "h0071",
+  "Nome": "ANCHIETA",
+  "latitude": -236833968,
+  "longitude": -465677249
+ },
+ {
+  "key": "h0072",
+  "Nome": "ILHA DO GOVERNADOR",
+  "latitude": -228042139,
+  "longitude": -432058575
+ },
+ {
+  "key": "h0073",
+  "Nome": "RIBEIRÃO PRETO 2",
+  "latitude": -211924724,
+  "longitude": -478007809
+ },
+ {
+  "key": "h0074",
+  "Nome": "ITAPECERICA",
+  "latitude": -236565491,
+  "longitude": -467634864
+ },
+ {
+  "key": "h0075",
+  "Nome": "CAMPINAS 2 - NORTE SUL",
+  "latitude": -228960245,
+  "longitude": -470468032
+ },
+ {
+  "key": "h0077",
+  "Nome": "CAMPINAS 3 - JONH BOYD DUNLUP",
+  "latitude": -229194361,
+  "longitude": -471094608
+ },
+ {
+  "key": "h0078",
+  "Nome": "PRESIDENTE VARGAS",
+  "latitude": -229014205,
+  "longitude": -431809340
+ },
+ {
+  "key": "h0079",
+  "Nome": "UBERLÂNDIA",
+  "latitude": -189142861,
+  "longitude": -482617301
+ },
+ {
+  "key": "h0080",
+  "Nome": "FRANCA",
+  "latitude": -205470998,
+  "longitude": -474001307
+ },
+ {
+  "key": "h0081",
+  "Nome": "MÉIER",
+  "latitude": -229044726,
+  "longitude": -432868070
+ },
+ {
+  "key": "h0084",
+  "Nome": "BEZERRA DE MENEZES",
+  "latitude": -37364134,
+  "longitude": -385685807
+ },
+ {
+  "key": "h0086",
+  "Nome": "SÃO JOSÉ DO RIO PRETO",
+  "latitude": -208172900,
+  "longitude": -493817820
+ },
+ {
+  "key": "h0087",
+  "Nome": "PARANGABA",
+  "latitude": -37646843,
+  "longitude": -385607451
+ },
+ {
+  "key": "h0091",
+  "Nome": "CAMPINHO",
+  "latitude": -228831998,
+  "longitude": -433407379
+ },
+ {
+  "key": "h0092",
+  "Nome": "BRAZ LEME HAB",
+  "latitude": -235099719,
+  "longitude": -466526977
+ },
+ {
+  "key": "h0095",
+  "Nome": "SHOPPING FLAMBOYANT",
+  "latitude": -167086219,
+  "longitude": -492348049
+ },
+ {
+  "key": "h0099",
+  "Nome": "MOGI DAS CRUZES",
+  "latitude": -235131697,
+  "longitude": -461819346
+ },
+ {
+  "key": "h0100",
+  "Nome": "BELFORD ROXO",
+  "latitude": -227615128,
+  "longitude": -434026744
+ },
+ {
+  "key": "h0101",
+  "Nome": "RADIAL 2",
+  "latitude": -235279679,
+  "longitude": -465072798
+ },
+ {
+  "key": "h0103",
+  "Nome": "JUNDIAÍ 2",
+  "latitude": -231692949,
+  "longitude": -468917403
+ },
+ {
+  "key": "h0107",
+  "Nome": "RAPOSO TAVARES HAB",
+  "latitude": -235809252,
+  "longitude": -467307935
+ },
+ {
+  "key": "h0108",
+  "Nome": "BAURU HAB",
+  "latitude": -223242996,
+  "longitude": -490650129
+ },
+ {
+  "key": "h0111",
+  "Nome": "WASHINGTON SOARES",
+  "latitude": -37972002,
+  "longitude": -384801319
+ },
+ {
+  "key": "h0112",
+  "Nome": "RIBEIRÃO PRETO 3 - NOVO SHOPPING",
+  "latitude": -212042971,
+  "longitude": -477679621
+ },
+ {
+  "key": "h0114",
+  "Nome": "ESTRADA DOS BANDEIRANTES",
+  "latitude": -229283208,
+  "longitude": -433737012
+ },
+ {
+  "key": "h0116",
+  "Nome": "SÃO GONÇALO",
+  "latitude": -228189482,
+  "longitude": -430158079
+ },
+ {
+  "key": "h0117",
+  "Nome": "ELISEU DE ALMEIDA",
+  "latitude": -235867467,
+  "longitude": -467316054
+ },
+ {
+  "key": "h0118",
+  "Nome": "TORRES HAB",
+  "latitude": -254464792,
+  "longitude": -492473770
+ },
+ {
+  "key": "h0119",
+  "Nome": "EDGAR FACÓ HAB",
+  "latitude": -234999939,
+  "longitude": -467064919
+ },
+ {
+  "key": "h0122",
+  "Nome": "VIA DUTRA",
+  "latitude": -227611900,
+  "longitude": -434237249
+ },
+ {
+  "key": "h0123",
+  "Nome": "AVENIDA BRASIL",
+  "latitude": -228659985,
+  "longitude": -432481799
+ },
+ {
+  "key": "h0124",
+  "Nome": "JACU PÊSSEGO 1",
+  "latitude": -235723508,
+  "longitude": -464460804
+ },
+ {
+  "key": "h0125",
+  "Nome": "RAGUEB CHOHFI",
+  "latitude": -235949879,
+  "longitude": -464445259
+ },
+ {
+  "key": "h0126",
+  "Nome": "RIO DAS PEDRAS",
+  "latitude": -235589700,
+  "longitude": -465216399
+ },
+ {
+  "key": "h0127",
+  "Nome": "ROSA E SILVA",
+  "latitude": -80436325,
+  "longitude": -348973623
+ },
+ {
+  "key": "h0128",
+  "Nome": "REALENGO",
+  "latitude": -228775963,
+  "longitude": -434426943
+ },
+ {
+  "key": "h0130",
+  "Nome": "FERRAZ DE VASCONCELOS",
+  "latitude": -235418473,
+  "longitude": -463682572
+ },
+ {
+  "key": "h0131",
+  "Nome": "VITOR MANZINI",
+  "latitude": -236623894,
+  "longitude": -467070467
+ },
+ {
+  "key": "h0132",
+  "Nome": "VIEIRA DE MORAIS",
+  "latitude": -236208416,
+  "longitude": -466736840
+ },
+ {
+  "key": "h0133",
+  "Nome": "PIEDADE",
+  "latitude": -81638100,
+  "longitude": -349244410
+ },
+ {
+  "key": "h0134",
+  "Nome": "IRAJÁ",
+  "latitude": -228319096,
+  "longitude": -433284918
+ },
+ {
+  "key": "h0135",
+  "Nome": "SATÉLITE",
+  "latitude": -236149398,
+  "longitude": -464701861
+ },
+ {
+  "key": "h0136",
+  "Nome": "IMPERADOR",
+  "latitude": -235135521,
+  "longitude": -464439518
+ },
+ {
+  "key": "h0140",
+  "Nome": "W03",
+  "latitude": -157725507,
+  "longitude": -478883283
+ },
+ {
+  "key": "h0141",
+  "Nome": "ITAPITANGA",
+  "latitude": -235503463,
+  "longitude": -464621888
+ },
+ {
+  "key": "h0144",
+  "Nome": "CAMPINAS 4",
+  "latitude": -229057627,
+  "longitude": -470591426
+ },
+ {
+  "key": "h0145",
+  "Nome": "TIROL",
+  "latitude": -229414531,
+  "longitude": -433408652
+ },
+ {
+  "key": "h0146",
+  "Nome": "MARÍLIA",
+  "latitude": -222264818,
+  "longitude": -499337109
+ },
+ {
+  "key": "h0147",
+  "Nome": "NILÓPOLIS",
+  "latitude": -228061929,
+  "longitude": -434195325
+ },
+ {
+  "key": "h0149",
+  "Nome": "ARAÇATUBA",
+  "latitude": -212208998,
+  "longitude": -504301150
+ },
+ {
+  "key": "h0152",
+  "Nome": "ABDIAS DE CARVALHO",
+  "latitude": -80617730,
+  "longitude": -349103734
+ },
+ {
+  "key": "h0153",
+  "Nome": "SÃO BOAVENTURA",
+  "latitude": -228816718,
+  "longitude": -430828834
+ },
+ {
+  "key": "h0154",
+  "Nome": "PITUBA",
+  "latitude": -129648900,
+  "longitude": -384039428
+ },
+ {
+  "key": "h0156",
+  "Nome": "TREZE DE MAIO",
+  "latitude": -37456417,
+  "longitude": -385333913
+ },
+ {
+  "key": "h0160",
+  "Nome": "RIO CLARO",
+  "latitude": -224147174,
+  "longitude": -475722902
+ },
+ {
+  "key": "h0161",
+  "Nome": "SHOPPING RECIFE",
+  "latitude": -81200100,
+  "longitude": -349050870
+ },
+ {
+  "key": "h0162",
+  "Nome": "PILARES",
+  "latitude": -228810613,
+  "longitude": -432935358
+ },
+ {
+  "key": "h0164",
+  "Nome": "BRAGANÇA PAULISTA",
+  "latitude": -229699365,
+  "longitude": -465354919
+ },
+ {
+  "key": "h0165",
+  "Nome": "SHOPPING CARIOCA",
+  "latitude": -228496051,
+  "longitude": -433113842
+ },
+ {
+  "key": "h0169",
+  "Nome": "MARECHAL TITO 2",
+  "latitude": -234948833,
+  "longitude": -464134453
+ },
+ {
+  "key": "h0172",
+  "Nome": "TARUMÃ",
+  "latitude": -254279227,
+  "longitude": -492335336
+ },
+ {
+  "key": "h0173",
+  "Nome": "ANDRÉ RAMALHO",
+  "latitude": -236524267,
+  "longitude": -465098666
+ },
+ {
+  "key": "h0174",
+  "Nome": "BICÃO",
+  "latitude": -228382214,
+  "longitude": -433102056
+ },
+ {
+  "key": "h0177",
+  "Nome": "SHOPPING ITU",
+  "latitude": -232549904,
+  "longitude": -473463447
+ },
+ {
+  "key": "h0180",
+  "Nome": "CAMPINAS 5 - SHOPPING DOM PEDRO",
+  "latitude": -228476323,
+  "longitude": -470642989
+ },
+ {
+  "key": "h0181",
+  "Nome": "SILVA JARDIM",
+  "latitude": -254388500,
+  "longitude": -492647867
+ },
+ {
+  "key": "h0182",
+  "Nome": "PRAÇA FLORIANO PEIXOTO",
+  "latitude": -236512065,
+  "longitude": -467081361
+ },
+ {
+  "key": "h0183",
+  "Nome": "ARARAQUARA",
+  "latitude": -217778659,
+  "longitude": -481776021
+ },
+ {
+  "key": "h0184",
+  "Nome": "31 DE MARÇO",
+  "latitude": -236570191,
+  "longitude": -465956305
+ },
+ {
+  "key": "h0185",
+  "Nome": "PRAIA GRANDE HAB",
+  "latitude": -240132215,
+  "longitude": -464146834
+ },
+ {
+  "key": "h0186",
+  "Nome": "PINHAIS",
+  "latitude": -254318223,
+  "longitude": -491981551
+ },
+ {
+  "key": "h0187",
+  "Nome": "AMERICANA",
+  "latitude": -227522213,
+  "longitude": -473473969
+ },
+ {
+  "key": "h0188",
+  "Nome": "SHOPPING TABOÃO HAB",
+  "latitude": -236086679,
+  "longitude": -467540872
+ },
+ {
+  "key": "h0189",
+  "Nome": "PRESIDENTE KENNEDY",
+  "latitude": -254557729,
+  "longitude": -492675608
+ },
+ {
+  "key": "h0190",
+  "Nome": "PRESIDENTE PRUDENTE",
+  "latitude": -221156051,
+  "longitude": -514087977
+ },
+ {
+  "key": "h0192",
+  "Nome": "SHOPPING MAUÁ HAB",
+  "latitude": -236677893,
+  "longitude": -464597872
+ },
+ {
+  "key": "h0194",
+  "Nome": "NAZARÉ",
+  "latitude": -14529443,
+  "longitude": -484818537
+ },
+ {
+  "key": "h0197",
+  "Nome": "BAURU 28 MINUTOS",
+  "latitude": -223475445,
+  "longitude": -490807519
+ },
+ {
+  "key": "h0199",
+  "Nome": "LIMEIRA",
+  "latitude": -225622699,
+  "longitude": -474197011
+ },
+ {
+  "key": "h0200",
+  "Nome": "INTENDENTE MAGALHÃES",
+  "latitude": -228771607,
+  "longitude": -433677929
+ },
+ {
+  "key": "h0202",
+  "Nome": "OTÁVIO MESQUITA",
+  "latitude": -234312011,
+  "longitude": -465026006
+ },
+ {
+  "key": "h0204",
+  "Nome": "SETOR OESTE",
+  "latitude": -166706573,
+  "longitude": -492288438
+ },
+ {
+  "key": "h0207",
+  "Nome": "GUARAPIRANGA HAB",
+  "latitude": -236957197,
+  "longitude": -467148529
+ },
+ {
+  "key": "h0209",
+  "Nome": "CAMPO GRANDE 2",
+  "latitude": -229000000,
+  "longitude": -432000000
+ },
+ {
+  "key": "h0212",
+  "Nome": "SHOPPING BOA VISTA",
+  "latitude": -80601618,
+  "longitude": -348873496
+ },
+ {
+  "key": "h0213",
+  "Nome": "PEREIRA BARRETO",
+  "latitude": -236881443,
+  "longitude": -465478545
+ },
+ {
+  "key": "h0214",
+  "Nome": "CAMPINAS 6 - SHOPPING CAMPINAS",
+  "latitude": -229323759,
+  "longitude": -470773913
+ },
+ {
+  "key": "h0215",
+  "Nome": "TAUBATÉ",
+  "latitude": -230418338,
+  "longitude": -455741107
+ },
+ {
+  "key": "h0218",
+  "Nome": "DEMARCHI",
+  "latitude": -237352560,
+  "longitude": -465537179
+ },
+ {
+  "key": "h0220",
+  "Nome": "CATUAÍ SHOPPING CENTER",
+  "latitude": -232900000,
+  "longitude": -511700000
+ },
+ {
+  "key": "h0225",
+  "Nome": "INDAIATUBA",
+  "latitude": -231199769,
+  "longitude": -472240375
+ },
+ {
+  "key": "h0226",
+  "Nome": "ELDORADO",
+  "latitude": -199392334,
+  "longitude": -440453720
+ },
+ {
+  "key": "h0227",
+  "Nome": "DIQUE TORORÓ",
+  "latitude": -129926486,
+  "longitude": -385004794
+ },
+ {
+  "key": "h0228",
+  "Nome": "AEROPORTO",
+  "latitude": -236289369,
+  "longitude": -466678924
+ },
+ {
+  "key": "h0230",
+  "Nome": "SHOPPING DA BAHIA",
+  "latitude": -129788253,
+  "longitude": -384537757
+ },
+ {
+  "key": "h0233",
+  "Nome": "ITAÚ POWER SHOPPING",
+  "latitude": -199465850,
+  "longitude": -440217550
+ },
+ {
+  "key": "h0236",
+  "Nome": "SHOPPING SÃO GONÇALO",
+  "latitude": -228061548,
+  "longitude": -430630296
+ },
+ {
+  "key": "h0237",
+  "Nome": "SHOPPING INTERLAGOS HAB",
+  "latitude": -236754146,
+  "longitude": -466759198
+ },
+ {
+  "key": "h0238",
+  "Nome": "SUZANO",
+  "latitude": -235367391,
+  "longitude": -463013175
+ },
+ {
+  "key": "h0241",
+  "Nome": "SOROCABA 3",
+  "latitude": -234925383,
+  "longitude": -474466762
+ },
+ {
+  "key": "h0245",
+  "Nome": "SHOPPING TACARUNA",
+  "latitude": -80562207,
+  "longitude": -348976702
+ },
+ {
+  "key": "h0246",
+  "Nome": "MACAÉ",
+  "latitude": -223802403,
+  "longitude": -417762571
+ },
+ {
+  "key": "h0247",
+  "Nome": "BETIM",
+  "latitude": -199678541,
+  "longitude": -442005982
+ },
+ {
+  "key": "h0248",
+  "Nome": "VENDA NOVA",
+  "latitude": -198198341,
+  "longitude": -439522128
+ },
+ {
+  "key": "h0249",
+  "Nome": "SALGADO FILHO",
+  "latitude": -58220245,
+  "longitude": -352087016
+ },
+ {
+  "key": "h0250",
+  "Nome": "CARAPICUÍBA 1 HAB",
+  "latitude": -235185841,
+  "longitude": -468378083
+ },
+ {
+  "key": "h0253",
+  "Nome": "PIRAPORINHA",
+  "latitude": -236907997,
+  "longitude": -465902169
+ },
+ {
+  "key": "h0255",
+  "Nome": "ACAIACA",
+  "latitude": -199205562,
+  "longitude": -439376445
+ },
+ {
+  "key": "h0260",
+  "Nome": "CIDADE NOVA",
+  "latitude": -198864762,
+  "longitude": -439289612
+ },
+ {
+  "key": "h0265",
+  "Nome": "YERVANT",
+  "latitude": -236749856,
+  "longitude": -466611420
+ },
+ {
+  "key": "h0266",
+  "Nome": "SHOPPING MIDWAY MALL",
+  "latitude": -58112541,
+  "longitude": -352062230
+ },
+ {
+  "key": "h0267",
+  "Nome": "PARQUE 10 DE NOVEMBRO",
+  "latitude": -30850570,
+  "longitude": -600155610
+ },
+ {
+  "key": "h0268",
+  "Nome": "BACACHERI",
+  "latitude": -254034120,
+  "longitude": -492434009
+ },
+ {
+  "key": "h0270",
+  "Nome": "SALIM FARAH MALUF",
+  "latitude": -235597654,
+  "longitude": -465773524
+ },
+ {
+  "key": "h0271",
+  "Nome": "PIRACICABA 2 - RUI BARBOSA",
+  "latitude": -227072529,
+  "longitude": -476536629
+ },
+ {
+  "key": "h0273",
+  "Nome": "SÃO CARLOS",
+  "latitude": -220040474,
+  "longitude": -478955082
+ },
+ {
+  "key": "h0274",
+  "Nome": "BADY BASSITT",
+  "latitude": -208240729,
+  "longitude": -494024889
+ },
+ {
+  "key": "h0277",
+  "Nome": "PORTÃO HAB",
+  "latitude": -254781478,
+  "longitude": -492959849
+ },
+ {
+  "key": "h0281",
+  "Nome": "GRANJA VIANA",
+  "latitude": -235894970,
+  "longitude": -468300424
+ },
+ {
+  "key": "h0285",
+  "Nome": "GUIDO ALIBERTI",
+  "latitude": -236464542,
+  "longitude": -465765928
+ },
+ {
+  "key": "h0286",
+  "Nome": "SÃO JOSÉ DOS PINHAIS",
+  "latitude": -255152605,
+  "longitude": -492018986
+ },
+ {
+  "key": "h0288",
+  "Nome": "SUDOESTE",
+  "latitude": -157978010,
+  "longitude": -479207290
+ },
+ {
+  "key": "h0289",
+  "Nome": "BOA VIAGEM",
+  "latitude": -81247457,
+  "longitude": -348992471
+ },
+ {
+  "key": "h0290",
+  "Nome": "PRAÇA DOS BOMBEIROS",
+  "latitude": -237179371,
+  "longitude": -465413466
+ },
+ {
+  "key": "h0301",
+  "Nome": "GUARUJÁ",
+  "latitude": -239940109,
+  "longitude": -462577024
+ },
+ {
+  "key": "h0304",
+  "Nome": "SHOPPING ITAQUERA HAB",
+  "latitude": -235354650,
+  "longitude": -464276360
+ },
+ {
+  "key": "h0305",
+  "Nome": "SHOPPING TATUAPÉ 2 HAB",
+  "latitude": -235389381,
+  "longitude": -465763874
+ },
+ {
+  "key": "h0306",
+  "Nome": "VILA GALVÃO",
+  "latitude": -234582569,
+  "longitude": -465681544
+ },
+ {
+  "key": "h0307",
+  "Nome": "DIADEMA",
+  "latitude": -236856172,
+  "longitude": -466178655
+ },
+ {
+  "key": "h0310",
+  "Nome": "JOINVILLE",
+  "latitude": -262965357,
+  "longitude": -488475405
+ },
+ {
+  "key": "h0311",
+  "Nome": "GIOVANI BREDA",
+  "latitude": -237250735,
+  "longitude": -465753502
+ },
+ {
+  "key": "h0312",
+  "Nome": "NORTH SHOPPING",
+  "latitude": -37355755,
+  "longitude": -385662683
+ },
+ {
+  "key": "h0315",
+  "Nome": "RÉGIS POSTO 22",
+  "latitude": -236558142,
+  "longitude": -468501011
+ },
+ {
+  "key": "h0316",
+  "Nome": "UBERABA",
+  "latitude": -197455884,
+  "longitude": -479387875
+ },
+ {
+  "key": "h0318",
+  "Nome": "PEDREIRA",
+  "latitude": -14363754,
+  "longitude": -484771932
+ },
+ {
+  "key": "h0320",
+  "Nome": "AMÉRICAS",
+  "latitude": -230080908,
+  "longitude": -434443972
+ },
+ {
+  "key": "h0322",
+  "Nome": "NEW CITY MANAUS",
+  "latitude": -31301180,
+  "longitude": -600034446
+ },
+ {
+  "key": "h0323",
+  "Nome": "TAGUATINGA SHOPPING",
+  "latitude": -158426880,
+  "longitude": -480447684
+ },
+ {
+  "key": "h0324",
+  "Nome": "SHOPPING PÁTIO BELÉM",
+  "latitude": -14580554,
+  "longitude": -484951158
+ },
+ {
+  "key": "h0328",
+  "Nome": "VIA SHOPPING 2 (QUIOSQUE)",
+  "latitude": -199740378,
+  "longitude": -440212024
+ },
+ {
+  "key": "h0329",
+  "Nome": "ITAQUAQUECETUBA 1 HAB",
+  "latitude": -234382005,
+  "longitude": -463259144
+ },
+ {
+  "key": "h0333",
+  "Nome": "COTIA",
+  "latitude": -236027606,
+  "longitude": -469145884
+ },
+ {
+  "key": "h0334",
+  "Nome": "SHOPPING UNIÃO OSASCO",
+  "latitude": -235390109,
+  "longitude": -467654372
+ },
+ {
+  "key": "h0338",
+  "Nome": "SHOPPING BOULEVARD BELÉM",
+  "latitude": -14463307,
+  "longitude": -484897426
+ },
+ {
+  "key": "h0339",
+  "Nome": "AMAZONAS SHOPPING HAB",
+  "latitude": -30955231,
+  "longitude": -600240754
+ },
+ {
+  "key": "h0340",
+  "Nome": "SACOMÃ",
+  "latitude": -236203037,
+  "longitude": -466010438
+ },
+ {
+  "key": "h0344",
+  "Nome": "JATIÚCA",
+  "latitude": -96456068,
+  "longitude": -357003280
+ },
+ {
+  "key": "h0345",
+  "Nome": "CANOAS",
+  "latitude": -299246736,
+  "longitude": -511774526
+ },
+ {
+  "key": "h0348",
+  "Nome": "ITAPEVI",
+  "latitude": -235513639,
+  "longitude": -469376414
+ },
+ {
+  "key": "h0352",
+  "Nome": "SHOPPING NOVA 25",
+  "latitude": -235489430,
+  "longitude": -466388180
+ },
+ {
+  "key": "h0357",
+  "Nome": "ERMANO MARCHETTI",
+  "latitude": -235145099,
+  "longitude": -466920296
+ },
+ {
+  "key": "h0358",
+  "Nome": "GUAIANAZES",
+  "latitude": -235344510,
+  "longitude": -464001258
+ },
+ {
+  "key": "h0359",
+  "Nome": "ITAQUAQUECETUBA 2",
+  "latitude": -234951198,
+  "longitude": -463589079
+ },
+ {
+  "key": "h0363",
+  "Nome": "CARUARU",
+  "latitude": -82774480,
+  "longitude": -359723989
+ },
+ {
+  "key": "h0364",
+  "Nome": "ESTÁDIO VITÓRIA",
+  "latitude": -129196380,
+  "longitude": -384267877
+ },
+ {
+  "key": "h0373",
+  "Nome": "SOROCABA 4 - GENERAL CARNEIRO",
+  "latitude": -235120780,
+  "longitude": -474886119
+ },
+ {
+  "key": "h0371",
+  "Nome": "AFONSO PENA",
+  "latitude": -204613514,
+  "longitude": -546018234
+ },
+ {
+  "key": "h0370",
+  "Nome": "ITATIBA",
+  "latitude": -230227960,
+  "longitude": -468420900
+ },
+ {
+  "key": "h0383",
+  "Nome": "CARAPICUÍBA 2 - INOCÊNCIO SERÁFICO",
+  "latitude": -235397085,
+  "longitude": -468349897
+ },
+ {
+  "key": "h0387",
+  "Nome": "SANTOS DUMONT",
+  "latitude": -233249836,
+  "longitude": -511408187
+ },
+ {
+  "key": "h0380",
+  "Nome": "SÃO VICENTE 2",
+  "latitude": -239680942,
+  "longitude": -463566196
+ },
+ {
+  "key": "h0390",
+  "Nome": "CAUCAIA DO ALTO",
+  "latitude": -236599417,
+  "longitude": -470052686
+ },
+ {
+  "key": "h0278",
+  "Nome": "GRAVATAÍ CARREFOUR",
+  "latitude": -299390761,
+  "longitude": -509964997
+ },
+ {
+  "key": "h0369",
+  "Nome": "ITAMARATI HAB",
+  "latitude": -236463761,
+  "longitude": -465138234
+ },
+ {
+  "key": "h0385",
+  "Nome": "GUARATINGUETÁ",
+  "latitude": -228137056,
+  "longitude": -452021090
+ },
+ {
+  "key": "h0284",
+  "Nome": "EPTG ÁGUAS CLARAS",
+  "latitude": -158308033,
+  "longitude": -480340571
+ },
+ {
+  "key": "h0298",
+  "Nome": "SHOPPING CASTANHEIRA",
+  "latitude": -14510301,
+  "longitude": -484690143
+ },
+ {
+  "key": "h0297",
+  "Nome": "SHOPPING MANAUARA",
+  "latitude": -31010540,
+  "longitude": -600135664
+ },
+ {
+  "key": "h0393",
+  "Nome": "SERRAMAR PARQUE SHOPPING",
+  "latitude": -236678823,
+  "longitude": -454367772
+ },
+ {
+  "key": "h0395",
+  "Nome": "OURO VERDE",
+  "latitude": -229588583,
+  "longitude": -471237697
+ },
+ {
+  "key": "h0398",
+  "Nome": "SHOPPING HORTOLÂNDIA",
+  "latitude": -228649797,
+  "longitude": -472165422
+ },
+ {
+  "key": "h0403",
+  "Nome": "VÁRZEA PAULISTA",
+  "latitude": -232142835,
+  "longitude": -468395718
+ },
+ {
+  "key": "h0367",
+  "Nome": "SHOPPING BOULEVARD SÃO GONÇALO",
+  "latitude": -228238051,
+  "longitude": -430425598
+ },
+ {
+  "key": "h0378",
+  "Nome": "ITANHAÉM",
+  "latitude": -241799516,
+  "longitude": -467815338
+ },
+ {
+  "key": "h0402",
+  "Nome": "ASA SUL",
+  "latitude": -158086501,
+  "longitude": -479010474
+ },
+ {
+  "key": "h0407",
+  "Nome": "RIBEIRÃO PIRES",
+  "latitude": -237133930,
+  "longitude": -464139840
+ },
+ {
+  "key": "h0410",
+  "Nome": "SHOPPING NOVA CIDADE",
+  "latitude": -30033998,
+  "longitude": -599807796
+ },
+ {
+  "key": "h0411",
+  "Nome": "MARAPONGA",
+  "latitude": -38035833,
+  "longitude": -385717441
+ },
+ {
+  "key": "h0379",
+  "Nome": "XAXIM",
+  "latitude": -255123292,
+  "longitude": -492595465
+ },
+ {
+  "key": "h0113",
+  "Nome": "VINHEDO",
+  "latitude": -230327599,
+  "longitude": -469869398
+ },
+ {
+  "key": "h0293",
+  "Nome": "INOÃ",
+  "latitude": -229654451,
+  "longitude": -430182618
+ },
+ {
+  "key": "h0296",
+  "Nome": "SHOPPING GUARARAPES",
+  "latitude": -81568904,
+  "longitude": -349340545
+ },
+ {
+  "key": "h0394",
+  "Nome": "TEOTÔNIO VILELA",
+  "latitude": -237695060,
+  "longitude": -467180174
+ },
+ {
+  "key": "h0196",
+  "Nome": "LUIZ GÓES",
+  "latitude": -236041439,
+  "longitude": -466371472
+ },
+ {
+  "key": "h0413",
+  "Nome": "TATUÍ",
+  "latitude": -233404039,
+  "longitude": -478507436
+ },
+ {
+  "key": "h0417",
+  "Nome": "ITABORAÍ",
+  "latitude": -227492654,
+  "longitude": -428784522
+ },
+ {
+  "key": "h0421",
+  "Nome": "TRÊS LAGOAS",
+  "latitude": -207862112,
+  "longitude": -517121736
+ },
+ {
+  "key": "h0423",
+  "Nome": "VILA AUGUSTA",
+  "latitude": -234899363,
+  "longitude": -465455650
+ },
+ {
+  "key": "h0429",
+  "Nome": "WANEL VILLE",
+  "latitude": -234927832,
+  "longitude": -475118792
+ },
+ {
+  "key": "h0424",
+  "Nome": "SHOPPING JK",
+  "latitude": -158431910,
+  "longitude": -481051910
+ },
+ {
+  "key": "h0434",
+  "Nome": "TAMBORÉ",
+  "latitude": -235025143,
+  "longitude": -468314471
+ },
+ {
+  "key": "h0433",
+  "Nome": "BANCÁRIOS",
+  "latitude": -71486938,
+  "longitude": -348425750
+ },
+ {
+  "key": "h0441",
+  "Nome": "ASSIS",
+  "latitude": -226622485,
+  "longitude": -503997135
+ },
+ {
+  "key": "h0443",
+  "Nome": "CIDADE OCIAN",
+  "latitude": -240027136,
+  "longitude": -464171113
+ },
+ {
+  "key": "h0446",
+  "Nome": "PONTA GROSSA",
+  "latitude": -250907773,
+  "longitude": -501500090
+ },
+ {
+  "key": "h0449",
+  "Nome": "SHOPPING GRÃO PARÁ",
+  "latitude": -13884782,
+  "longitude": -484698628
+ },
+ {
+  "key": "h0452",
+  "Nome": "ASSIS BRASIL HAB",
+  "latitude": -300050960,
+  "longitude": -511374712
+ },
+ {
+  "key": "h0451",
+  "Nome": "PÁTIO COCÓ",
+  "latitude": -37419630,
+  "longitude": -384875512
+ },
+ {
+  "key": "h0450",
+  "Nome": "EMBU DAS ARTES",
+  "latitude": -236485516,
+  "longitude": -468469737
+ },
+ {
+  "key": "h0448",
+  "Nome": "ITAGUAÍ",
+  "latitude": -229117320,
+  "longitude": -436763320
+ },
+ {
+  "key": "h0453",
+  "Nome": "MOSTARDEIRO HAB",
+  "latitude": -300284819,
+  "longitude": -511994897
+ },
+ {
+  "key": "h0457",
+  "Nome": "SANTOS HAB",
+  "latitude": -239671749,
+  "longitude": -463079019
+ },
+ {
+  "key": "h0458",
+  "Nome": "TREMEMBÉ 2",
+  "latitude": -234431613,
+  "longitude": -465898336
+ },
+ {
+  "key": "h0459",
+  "Nome": "HIRANT SANAZAR",
+  "latitude": -235601824,
+  "longitude": -467844102
+ },
+ {
+  "key": "h0460",
+  "Nome": "VILAR DOS TELES",
+  "latitude": -227755888,
+  "longitude": -433564969
+ },
+ {
+  "key": "h0461",
+  "Nome": "CAMPO GRANDE 3",
+  "latitude": -229028030,
+  "longitude": -435566905
+ },
+ {
+  "key": "h0465",
+  "Nome": "CENTRAL DO BRASIL",
+  "latitude": -229033851,
+  "longitude": -431917089
+ },
+ {
+  "key": "h0431",
+  "Nome": "SHOPPING RIO POTY",
+  "latitude": -50892120,
+  "longitude": -428016280
+ },
+ {
+  "key": "h0435",
+  "Nome": "SHOPPING PARANGABA",
+  "latitude": -37755378,
+  "longitude": -385619358
+ },
+ {
+  "key": "h0436",
+  "Nome": "ROCINHA",
+  "latitude": -229899791,
+  "longitude": -432520036
+ },
+ {
+  "key": "h0438",
+  "Nome": "ITAVUVU HAB",
+  "latitude": -234575537,
+  "longitude": -474806488
+ },
+ {
+  "key": "h0440",
+  "Nome": "POUSO ALEGRE",
+  "latitude": -222329489,
+  "longitude": -459306705
+ },
+ {
+  "key": "h0464",
+  "Nome": "SHOPPING JARDIM NORTE QUIOSQUE",
+  "latitude": -217400100,
+  "longitude": -433712860
+ },
+ {
+  "key": "h0463",
+  "Nome": "SHOPPING JARDIM NORTE LOJA",
+  "latitude": -217400100,
+  "longitude": -433712860
+ },
+ {
+  "key": "h0467",
+  "Nome": "WASHINGTON LUIS",
+  "latitude": -236402443,
+  "longitude": -466738198
+ },
+ {
+  "key": "h0469",
+  "Nome": "CURITIBA - CENTRO",
+  "latitude": -254307670,
+  "longitude": -492664920
+ },
+ {
+  "key": "h0471",
+  "Nome": "OSASCO PLAZA SHOPPING",
+  "latitude": -235305633,
+  "longitude": -467795941
+ },
+ {
+  "key": "h0477",
+  "Nome": "MANILHA",
+  "latitude": -228151423,
+  "longitude": -430757416
+ },
+ {
+  "key": "h0474",
+  "Nome": "ATIBAIA",
+  "latitude": -231175492,
+  "longitude": -465567066
+ },
+ {
+  "key": "h0475",
+  "Nome": "PASSOS",
+  "latitude": -207337680,
+  "longitude": -466059676
+ },
+ {
+  "key": "h0476",
+  "Nome": "SHOPPING CAMPO LIMPO",
+  "latitude": -236495334,
+  "longitude": -467574857
+ },
+ {
+  "key": "h0480",
+  "Nome": "MARIA ANTÔNIA MACKENZIE",
+  "latitude": -235457953,
+  "longitude": -466513370
+ },
+ {
+  "key": "h0479",
+  "Nome": "VIGÁRIO GERAL",
+  "latitude": -228168941,
+  "longitude": -433068497
+ },
+ {
+  "key": "h0482",
+  "Nome": "SUMARÉ",
+  "latitude": -228129587,
+  "longitude": -472351620
+ },
+ {
+  "key": "h0520",
+  "Nome": "JK CURITIBA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0487",
+  "Nome": "PETROLINA",
+  "latitude": -93943886,
+  "longitude": -404808503
+ },
+ {
+  "key": "h0485",
+  "Nome": "SENADOR VASCONCELOS",
+  "latitude": -228892687,
+  "longitude": -435225996
+ },
+ {
+  "key": "h0484",
+  "Nome": "PERUÍBE",
+  "latitude": -242985894,
+  "longitude": -469714886
+ },
+ {
+  "key": "h0490",
+  "Nome": "PALMAS",
+  "latitude": -102697233,
+  "longitude": -483326800
+ },
+ {
+  "key": "h0488",
+  "Nome": "TANCREDO NEVES 2",
+  "latitude": -236185650,
+  "longitude": -466099995
+ },
+ {
+  "key": "h0492",
+  "Nome": "MESSEJANA II",
+  "latitude": -38158083,
+  "longitude": -384980964
+ },
+ {
+  "key": "h0483",
+  "Nome": "TANCREDO NEVES",
+  "latitude": -236159996,
+  "longitude": -466087174
+ },
+ {
+  "key": "h0497",
+  "Nome": "MADUREIRA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "h0486",
+  "Nome": "SHOPPING PATTEO OLINDA",
+  "latitude": -79937330,
+  "longitude": -348438956
+ },
+ {
+  "key": "h02506",
+  "Nome": "GENNIUS SUPLY - DIADEMA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0468",
+  "Nome": "JARDIM SÃO LUIS",
+  "latitude": -236512042,
+  "longitude": -467337272
+ },
+ {
+  "key": "h0470",
+  "Nome": "BLUMENAU",
+  "latitude": -269096048,
+  "longitude": -490818480
+ },
+ {
+  "key": "h0507",
+  "Nome": "CAMPOS SALES",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0508",
+  "Nome": "CARIRI GARDEN SHOPPING",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0509",
+  "Nome": "CARIRI GARDEN SHOPPING (QUIOSQUE)",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0512",
+  "Nome": "NORTE SHOPPING 3",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0514",
+  "Nome": "PAULISTA NORTH WAY",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0515",
+  "Nome": "SAARA 2",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0510",
+  "Nome": "NORTH SHOPPING FORTALEZA (QUIOSQUE)",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0517",
+  "Nome": "FAZENDA RIO GRANDE",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0519",
+  "Nome": "DUQUE DE CAXIAS II",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0518",
+  "Nome": "SOROCABA - CAMPOLIM",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0505",
+  "Nome": "SHOPPING BAY MARKET HAB (QUIOSQUE)",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "h0513",
+  "Nome": "PEDRO TEIXEIRA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0500",
+  "Nome": "SHOPPING BAY MARKET HAB",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "h0503",
+  "Nome": "DENDÊ",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0504",
+  "Nome": "MAG SHOPPING",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "h0511",
+  "Nome": "SANTA CRUZ",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "r0001",
+  "Nome": "SÃO CAETANO RAG",
+  "latitude": -236166029,
+  "longitude": -465650009
+ },
+ {
+  "key": "r0002",
+  "Nome": "MORUMBI RAG",
+  "latitude": -236227256,
+  "longitude": -467381726
+ },
+ {
+  "key": "r0005",
+  "Nome": "GENTIL DE MOURA RAG",
+  "latitude": -236025842,
+  "longitude": -466148737
+ },
+ {
+  "key": "r0006",
+  "Nome": "EDGAR FACÓ RAG",
+  "latitude": -235055051,
+  "longitude": -467058758
+ },
+ {
+  "key": "r0007",
+  "Nome": "SHOPPING TATUAPÉ 2 RAG",
+  "latitude": -235390091,
+  "longitude": -465761852
+ },
+ {
+  "key": "r0010",
+  "Nome": "SHOPPING INTERLAGOS RAG",
+  "latitude": -236765453,
+  "longitude": -466765772
+ },
+ {
+  "key": "r0011",
+  "Nome": "RAPOSO TAVARES RAG",
+  "latitude": -236126674,
+  "longitude": -469880558
+ },
+ {
+  "key": "r0015",
+  "Nome": "GIOVANNI PIRELLI",
+  "latitude": -236660964,
+  "longitude": -464966650
+ },
+ {
+  "key": "r0017",
+  "Nome": "SHOPPING TABOÃO RAG",
+  "latitude": -236086679,
+  "longitude": -467540872
+ },
+ {
+  "key": "r0018",
+  "Nome": "ÁGUA FRIA",
+  "latitude": -234814809,
+  "longitude": -466221408
+ },
+ {
+  "key": "r0019",
+  "Nome": "ITAMARATI RAG",
+  "latitude": -236465586,
+  "longitude": -465139046
+ },
+ {
+  "key": "r0020",
+  "Nome": "ABRAÃO DE MORAIS",
+  "latitude": -236270289,
+  "longitude": -466292959
+ },
+ {
+  "key": "r0021",
+  "Nome": "JABAQUARA RAG",
+  "latitude": -236136718,
+  "longitude": -466383268
+ },
+ {
+  "key": "r0022",
+  "Nome": "ITAQUAQUECETUBA RAG",
+  "latitude": -234856806,
+  "longitude": -463636729
+ },
+ {
+  "key": "r0023",
+  "Nome": "RUDGE RAMOS",
+  "latitude": -236511651,
+  "longitude": -465761393
+ },
+ {
+  "key": "r0024",
+  "Nome": "CAPITÃO MÁRIO TOLEDO",
+  "latitude": -236763303,
+  "longitude": -465064235
+ },
+ {
+  "key": "r0025",
+  "Nome": "TORRES RAG",
+  "latitude": -254283560,
+  "longitude": -492732520
+ },
+ {
+  "key": "r0027",
+  "Nome": "BAURU RAG",
+  "latitude": -223390360,
+  "longitude": -490504709
+ },
+ {
+  "key": "r0030",
+  "Nome": "SHOPPING MAUÁ RAG",
+  "latitude": -236643755,
+  "longitude": -464605808
+ },
+ {
+  "key": "r0026",
+  "Nome": "CARAPICUÍBA RAG",
+  "latitude": -235189573,
+  "longitude": -468371199
+ },
+ {
+  "key": "r0035",
+  "Nome": "SHOPPING PARQUE DAS BANDEIRAS",
+  "latitude": -229251712,
+  "longitude": -471269820
+ },
+ {
+  "key": "r0036",
+  "Nome": "RIBEIRÃO PRETO RAG",
+  "latitude": -211895338,
+  "longitude": -478054702
+ },
+ {
+  "key": "r0028",
+  "Nome": "TABOÃO SBC",
+  "latitude": -236618503,
+  "longitude": -466057820
+ },
+ {
+  "key": "r0033",
+  "Nome": "TANCREDO NEVES RAG",
+  "latitude": -236157554,
+  "longitude": -466085588
+ },
+ {
+  "key": "r0038",
+  "Nome": "PRAIA GRANDE RAG",
+  "latitude": -240061336,
+  "longitude": -464250442
+ },
+ {
+  "key": "r0039",
+  "Nome": "SÃO BERNARDO RAG",
+  "latitude": -237082165,
+  "longitude": -465522405
+ },
+ {
+  "key": "r0043",
+  "Nome": "LIBERDADE RAG",
+  "latitude": -235582512,
+  "longitude": -466373554
+ },
+ {
+  "key": "r0044",
+  "Nome": "ANA COSTA",
+  "latitude": -239636607,
+  "longitude": -463320746
+ },
+ {
+  "key": "r0045",
+  "Nome": "CARLOS LACERDA",
+  "latitude": -236401543,
+  "longitude": -467801407
+ },
+ {
+  "key": "r0058",
+  "Nome": "PAULO FACCINI",
+  "latitude": -234685661,
+  "longitude": -465222413
+ },
+ {
+  "key": "r0061",
+  "Nome": "VIA DUTRA RAG",
+  "latitude": -227390797,
+  "longitude": -434728674
+ },
+ {
+  "key": "r0059",
+  "Nome": "TAMBORÉ RAG (LOJA TRANS.PARA HABIB´S)",
+  "latitude": -235024300,
+  "longitude": -468314180
+ },
+ {
+  "key": "r0042",
+  "Nome": "PORTÃO RAG",
+  "latitude": -254781478,
+  "longitude": -492959849
+ },
+ {
+  "key": "r0053",
+  "Nome": "ADRIANÓPOLIS",
+  "latitude": -31082135,
+  "longitude": -600131048
+ },
+ {
+  "key": "r0047",
+  "Nome": "NOVO HAMBURGO RAG",
+  "latitude": -296846419,
+  "longitude": -511337036
+ },
+ {
+  "key": "r0049",
+  "Nome": "PELOTAS RAG",
+  "latitude": -317628862,
+  "longitude": -523295485
+ },
+ {
+  "key": "r0054",
+  "Nome": "CAXIAS DO SUL RAG",
+  "latitude": -291689432,
+  "longitude": -511871116
+ },
+ {
+  "key": "r0066",
+  "Nome": "WASHINGTON LUÍS",
+  "latitude": -236537012,
+  "longitude": -466894718
+ },
+ {
+  "key": "r0068",
+  "Nome": "JACU PÊSSEGO RAG",
+  "latitude": -235441630,
+  "longitude": -464485082
+ },
+ {
+  "key": "r0067",
+  "Nome": "RADIAL RAG",
+  "latitude": -235390451,
+  "longitude": -465690009
+ },
+ {
+  "key": "r0070",
+  "Nome": "BATEL",
+  "latitude": -254458425,
+  "longitude": -492929150
+ },
+ {
+  "key": "r0069",
+  "Nome": "SHOPPING ITAQUERA RAG",
+  "latitude": -235407316,
+  "longitude": -464743194
+ },
+ {
+  "key": "r0072",
+  "Nome": "ITAQUERA II",
+  "latitude": -235505459,
+  "longitude": -465107884
+ },
+ {
+  "key": "r0071",
+  "Nome": "GUARAPIRANGA RAG",
+  "latitude": -236662652,
+  "longitude": -467183384
+ },
+ {
+  "key": "r0074",
+  "Nome": "SALIM FARAH MALUF RAG",
+  "latitude": -235392161,
+  "longitude": -465808850
+ },
+ {
+  "key": "r0073",
+  "Nome": "CURITIBA",
+  "latitude": -254323671,
+  "longitude": -492748338
+ },
+ {
+  "key": "r0076",
+  "Nome": "POÁ RAG",
+  "latitude": -235135747,
+  "longitude": -463364851
+ },
+ {
+  "key": "r0078",
+  "Nome": "CAETANO ÁLVARES",
+  "latitude": -234828815,
+  "longitude": -466352006
+ },
+ {
+  "key": "r0075",
+  "Nome": "SHOPPING ARICANDUVA RAG",
+  "latitude": -235638862,
+  "longitude": -465014475
+ },
+ {
+  "key": "r0081",
+  "Nome": "VICENTE RAO RAG",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "r0064",
+  "Nome": "TIQUATIRA",
+  "latitude": -235149560,
+  "longitude": -465433889
+ },
+ {
+  "key": "r0079",
+  "Nome": "SHOPPING ARICANDUVA RAG - QUIOSQUE",
+  "latitude": -235638862,
+  "longitude": -465014475
+ },
+ {
+  "key": "r0080",
+  "Nome": "AVENIDA DAS AMÉRICAS RAG",
+  "latitude": -230101767,
+  "longitude": -434519704
+ },
+ {
+  "key": "r0082",
+  "Nome": "ALPHAVILLE RAG",
+  "latitude": -235047249,
+  "longitude": -468465093
+ },
+ {
+  "key": "r0083",
+  "Nome": "AMAZONAS SHOPPING RAG",
+  "latitude": -31107988,
+  "longitude": -600230831
+ },
+ {
+  "key": "r0085",
+  "Nome": "SHOPPING METRÔ ITAQUERA (QUIOSQUE)",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "r0086",
+  "Nome": "ITASHOPPING",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "r0087",
+  "Nome": "SHOPPING DOM PEDRO 2",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "t0001",
+  "Nome": "TENDALL 1 SANTO ANDRÉ",
+  "latitude": -236508780,
+  "longitude": -465346500
+ },
+ {
+  "key": "t0004",
+  "Nome": "TENDALL 4 GIOVANNI BRUNO",
+  "latitude": -235516772,
+  "longitude": -466455933
+ },
+ {
+  "key": "t0005",
+  "Nome": "TENDALL 5 SÃO JUDAS",
+  "latitude": -236266242,
+  "longitude": -466418627
+ },
+ {
+  "key": "t0002",
+  "Nome": "TENDALL 2 ARICANDUVA",
+  "latitude": -235845053,
+  "longitude": -464889508
+ },
+ {
+  "key": "t0003",
+  "Nome": "TENDALL 3 RUDGE RAMOS",
+  "latitude": -236519898,
+  "longitude": -465754510
+ },
+ {
+  "key": "t0006",
+  "Nome": "TENDALL 6 AEROPORTO",
+  "latitude": -236296204,
+  "longitude": -466666527
+ },
+ {
+  "key": "x0003",
+  "Nome": "REX SHOPPING MAUÁ",
+  "latitude": -236643755,
+  "longitude": -464605808
+ },
+ {
+  "key": "x0189",
+  "Nome": "REX PATIO CIANÊ SHOPPING",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0237",
+  "Nome": "REX EXTRA VILA MARIANA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0238",
+  "Nome": "REX ITAQUÁ GARDEN SHOPPING",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0004",
+  "Nome": "REX MATEO BEI",
+  "latitude": -236036382,
+  "longitude": -464812332
+ },
+ {
+  "key": "x0005",
+  "Nome": "REX OSASCO",
+  "latitude": -235344445,
+  "longitude": -467798030
+ },
+ {
+  "key": "x0006",
+  "Nome": "REX SÃO BERNARDO DO CAMPO",
+  "latitude": -237036729,
+  "longitude": -465516616
+ },
+ {
+  "key": "x0009",
+  "Nome": "REX ARTUR ALVIM",
+  "latitude": -235398614,
+  "longitude": -464858449
+ },
+ {
+  "key": "x0007",
+  "Nome": "REX PRAÇA DA ÁRVORE",
+  "latitude": -236107391,
+  "longitude": -466381805
+ },
+ {
+  "key": "x0012",
+  "Nome": "REX CARREFOUR JOÃO DIAS",
+  "latitude": -236420661,
+  "longitude": -467345414
+ },
+ {
+  "key": "x0008",
+  "Nome": "REX DOM JOSÉ DE BARROS",
+  "latitude": -235443231,
+  "longitude": -466406843
+ },
+ {
+  "key": "x0019",
+  "Nome": "REX SÃO JUDAS",
+  "latitude": -236265636,
+  "longitude": -466416867
+ },
+ {
+  "key": "x0020",
+  "Nome": "REX VILA CONCEIÇÃO",
+  "latitude": -236361731,
+  "longitude": -466410488
+ },
+ {
+  "key": "x0021",
+  "Nome": "REX PAULISTA",
+  "latitude": -235686688,
+  "longitude": -466468589
+ },
+ {
+  "key": "x0023",
+  "Nome": "REX MANIFESTO IPIRANGA",
+  "latitude": -235828046,
+  "longitude": -466009175
+ },
+ {
+  "key": "x0022",
+  "Nome": "REX SHOPPING LIGHT",
+  "latitude": -235466887,
+  "longitude": -466387047
+ },
+ {
+  "key": "x0025",
+  "Nome": "REX SHOPPING SP MARKET",
+  "latitude": -236077223,
+  "longitude": -466975576
+ },
+ {
+  "key": "x0024",
+  "Nome": "REX METRÔ SANTA CRUZ",
+  "latitude": -235990249,
+  "longitude": -466371985
+ },
+ {
+  "key": "x0027",
+  "Nome": "REX GUARULHOS",
+  "latitude": -235064066,
+  "longitude": -465398806
+ },
+ {
+  "key": "x0028",
+  "Nome": "REX SHOPPING TAMBORÉ",
+  "latitude": -235044230,
+  "longitude": -468346560
+ },
+ {
+  "key": "x0033",
+  "Nome": "REX TUIUTI",
+  "latitude": -235421811,
+  "longitude": -465752983
+ },
+ {
+  "key": "x0037",
+  "Nome": "REX PRAÇA DA SÉ",
+  "latitude": -235493551,
+  "longitude": -466338709
+ },
+ {
+  "key": "x0010",
+  "Nome": "REX SHOPPING PLAZA OSASCO (LOJA)",
+  "latitude": -235292296,
+  "longitude": -467779051
+ },
+ {
+  "key": "x0031",
+  "Nome": "REX AUGUSTA",
+  "latitude": -235567211,
+  "longitude": -466590183
+ },
+ {
+  "key": "x0032",
+  "Nome": "REX ACRE",
+  "latitude": -228991315,
+  "longitude": -431814014
+ },
+ {
+  "key": "x0034",
+  "Nome": "REX SÃO MIGUEL",
+  "latitude": -234914524,
+  "longitude": -464439155
+ },
+ {
+  "key": "x0039",
+  "Nome": "REX VILA DAS MERCÊS",
+  "latitude": -236319008,
+  "longitude": -466047978
+ },
+ {
+  "key": "x0045",
+  "Nome": "REX SÃO BENTO",
+  "latitude": -235467577,
+  "longitude": -466354618
+ },
+ {
+  "key": "x0047",
+  "Nome": "REX BRESSER",
+  "latitude": -235430600,
+  "longitude": -466065600
+ },
+ {
+  "key": "x0049",
+  "Nome": "REX GALERIA CENTER DUBAI",
+  "latitude": -236119130,
+  "longitude": -464756470
+ },
+ {
+  "key": "x0050",
+  "Nome": "REX ROBERTO SILVEIRA",
+  "latitude": -227542167,
+  "longitude": -434545909
+ },
+ {
+  "key": "x0055",
+  "Nome": "REX MAUÁ CENTRO",
+  "latitude": -236665736,
+  "longitude": -464572566
+ },
+ {
+  "key": "x0056",
+  "Nome": "REX QUIOSQUE – CENTRAL DO BRASIL",
+  "latitude": -235400000,
+  "longitude": -466200000
+ },
+ {
+  "key": "x0057",
+  "Nome": "REX CONTAINER – CENTRAL DO BRASIL",
+  "latitude": -235400000,
+  "longitude": -466200000
+ },
+ {
+  "key": "x0059",
+  "Nome": "REX DIADEMA CENTRO",
+  "latitude": -236886384,
+  "longitude": -466276133
+ },
+ {
+  "key": "x0060",
+  "Nome": "REX OSASCO – PRIMITIVA VIANCO",
+  "latitude": -235371011,
+  "longitude": -467760120
+ },
+ {
+  "key": "x0014",
+  "Nome": "REX SANTO ANDRÉ",
+  "latitude": -236589738,
+  "longitude": -465272755
+ },
+ {
+  "key": "x0026",
+  "Nome": "REX LAPA",
+  "latitude": -235189268,
+  "longitude": -467031573
+ },
+ {
+  "key": "x0030",
+  "Nome": "REX BARÃO DE ITAPETININGA",
+  "latitude": -235452052,
+  "longitude": -466399144
+ },
+ {
+  "key": "x0118",
+  "Nome": "REX SHOPPING ITAPECERICA II",
+  "latitude": -237154519,
+  "longitude": -468501918
+ },
+ {
+  "key": "x0123",
+  "Nome": "REX LAPA - CLEMENTE ÁLVARES",
+  "latitude": -235209424,
+  "longitude": -467032582
+ },
+ {
+  "key": "x0128",
+  "Nome": "REX SHOPPING BAY MARKET II",
+  "latitude": -228919990,
+  "longitude": -431247430
+ },
+ {
+  "key": "x0127",
+  "Nome": "REX FMU LIBERDADE",
+  "latitude": -235608317,
+  "longitude": -466370116
+ },
+ {
+  "key": "x0110",
+  "Nome": "REX PÃO DE AÇÚCAR - JABAQUARA",
+  "latitude": -236460212,
+  "longitude": -466410681
+ },
+ {
+  "key": "x0114",
+  "Nome": "REX SANTOS II",
+  "latitude": -239351073,
+  "longitude": -463278150
+ },
+ {
+  "key": "x0112",
+  "Nome": "REX EXTRA GALEÃO",
+  "latitude": -228047560,
+  "longitude": -432081446
+ },
+ {
+  "key": "x0040",
+  "Nome": "REX HELIÓPOLIS",
+  "latitude": -236188343,
+  "longitude": -465925591
+ },
+ {
+  "key": "x0041",
+  "Nome": "REX SENADOR DANTAS",
+  "latitude": -229103400,
+  "longitude": -431773930
+ },
+ {
+  "key": "x0070",
+  "Nome": "REX NUNES ALVES",
+  "latitude": -227863485,
+  "longitude": -433100024
+ },
+ {
+  "key": "x0066",
+  "Nome": "REX EXTRA NOSSA SENHORA DO SABARÁ",
+  "latitude": -236657967,
+  "longitude": -466899984
+ },
+ {
+  "key": "x0063",
+  "Nome": "REX SHOPPING ITAPECERICA",
+  "latitude": -237154520,
+  "longitude": -468501919
+ },
+ {
+  "key": "x0080",
+  "Nome": "REX CAMPO GRANDE FERREIRA BORGES",
+  "latitude": -229020481,
+  "longitude": -435575030
+ },
+ {
+  "key": "x0081",
+  "Nome": "REX VILA ISABEL - 28 DE SETEMBRO",
+  "latitude": -229152067,
+  "longitude": -432425792
+ },
+ {
+  "key": "x0083",
+  "Nome": "REX EXTRA ANCHIETA",
+  "latitude": -236692323,
+  "longitude": -465751272
+ },
+ {
+  "key": "x0084",
+  "Nome": "REX MOGI DAS CRUZES",
+  "latitude": -235247095,
+  "longitude": -461944017
+ },
+ {
+  "key": "x0085",
+  "Nome": "REX ARTUR ALVIM II",
+  "latitude": -235422579,
+  "longitude": -464834641
+ },
+ {
+  "key": "x0086",
+  "Nome": "REX RAFAEL DE BARROS",
+  "latitude": -235737372,
+  "longitude": -466435593
+ },
+ {
+  "key": "x0088",
+  "Nome": "REX GRAND PLAZA SHOPPING",
+  "latitude": -236401793,
+  "longitude": -465384764
+ },
+ {
+  "key": "x0089",
+  "Nome": "REX SANTO ANDRÉ III",
+  "latitude": -236627691,
+  "longitude": -465232186
+ },
+ {
+  "key": "x0090",
+  "Nome": "REX PARQUE SHOPPING BARUERI",
+  "latitude": -235163221,
+  "longitude": -468556042
+ },
+ {
+  "key": "x0091",
+  "Nome": "REX BARÃO DE ITAPETININGA 2",
+  "latitude": -235440129,
+  "longitude": -466416932
+ },
+ {
+  "key": "x0092",
+  "Nome": "REX MARIA ANTÔNIA – MACKENZIE",
+  "latitude": -235465034,
+  "longitude": -466507577
+ },
+ {
+  "key": "x0064",
+  "Nome": "REX EXTRA INTERLAGOS",
+  "latitude": -236640033,
+  "longitude": -466792568
+ },
+ {
+  "key": "x0071",
+  "Nome": "REX FERRAZ DE VASCONCELOS",
+  "latitude": -235412625,
+  "longitude": -463674420
+ },
+ {
+  "key": "x0082",
+  "Nome": "REX TEODORO SAMPAIO",
+  "latitude": -235600000,
+  "longitude": -466800000
+ },
+ {
+  "key": "x0148",
+  "Nome": "REX BOA ESPERANÇA",
+  "latitude": -235974079,
+  "longitude": -464535987
+ },
+ {
+  "key": "x0101",
+  "Nome": "REX CARREFOUR RAPOSO TAVARES",
+  "latitude": -235853602,
+  "longitude": -467788402
+ },
+ {
+  "key": "x0102",
+  "Nome": "REX CARREFOUR SÃO VICENTE",
+  "latitude": -239671841,
+  "longitude": -463689254
+ },
+ {
+  "key": "x0104",
+  "Nome": "REX CARREFOUR JABAQUARA",
+  "latitude": -236393147,
+  "longitude": -466417224
+ },
+ {
+  "key": "x0105",
+  "Nome": "REX ASSAÍ VILA LUZITA",
+  "latitude": -236826000,
+  "longitude": -465044323
+ },
+ {
+  "key": "x0107",
+  "Nome": "REX TERMINAL RODOVIÁRIO ARUJÁ (BIKE)",
+  "latitude": -233941910,
+  "longitude": -463242259
+ },
+ {
+  "key": "x0117",
+  "Nome": "REX MADUREIRA VIADUTO",
+  "latitude": -228560897,
+  "longitude": -423451344
+ },
+ {
+  "key": "x0113",
+  "Nome": "REX COPACABANA",
+  "latitude": -234680111,
+  "longitude": -465252608
+ },
+ {
+  "key": "x0116",
+  "Nome": "REX DUQUE DE CAXIAS - PRESIDENTE VARGAS",
+  "latitude": -227901507,
+  "longitude": -433081483
+ },
+ {
+  "key": "x0115",
+  "Nome": "REX MARIA ANTÔNIA – MACKENZIE II",
+  "latitude": -235465034,
+  "longitude": -466507577
+ },
+ {
+  "key": "x0126",
+  "Nome": "REX OSASCO JOÃO DE ANDRADE",
+  "latitude": -235597694,
+  "longitude": -467992887
+ },
+ {
+  "key": "x0129",
+  "Nome": "REX SUZANO SUPERMERCADO DOCELAR",
+  "latitude": -235004748,
+  "longitude": -462999181
+ },
+ {
+  "key": "x0132",
+  "Nome": "REX SÃO CAETANO GALERIA",
+  "latitude": -236110133,
+  "longitude": -465714364
+ },
+ {
+  "key": "x0133",
+  "Nome": "REX PARQUE TIETÊ",
+  "latitude": -234601684,
+  "longitude": -466763884
+ },
+ {
+  "key": "x0134",
+  "Nome": "REX ESTAÇÃO DEODORO",
+  "latitude": -228549908,
+  "longitude": -433835060
+ },
+ {
+  "key": "x0137",
+  "Nome": "REX EXTRA RIBEIRÃO PIRES",
+  "latitude": -235463728,
+  "longitude": -466347116
+ },
+ {
+  "key": "x0144",
+  "Nome": "REX ASSAÍ CIDADE DUTRA",
+  "latitude": -237262410,
+  "longitude": -467007892
+ },
+ {
+  "key": "x0145",
+  "Nome": "REX ITASHOPPING",
+  "latitude": -235457513,
+  "longitude": -469323300
+ },
+ {
+  "key": "x0146",
+  "Nome": "REX ITAIM PAULISTA - SUPERMERCADO NAGUMO",
+  "latitude": -235212879,
+  "longitude": -463867600
+ },
+ {
+  "key": "x0131",
+  "Nome": "REX EXTRA DIADEMA TABOÃO",
+  "latitude": -236690198,
+  "longitude": -466094746
+ },
+ {
+  "key": "x0142",
+  "Nome": "REX GUARULHOS - SUPERMERCADO NAGUMO",
+  "latitude": -234076210,
+  "longitude": -463951743
+ },
+ {
+  "key": "x0143",
+  "Nome": "REX SÃO JOSÉ",
+  "latitude": -229055143,
+  "longitude": -431758993
+ },
+ {
+  "key": "x0147",
+  "Nome": "REX ESTAÇÃO CAMPO GRANDE",
+  "latitude": -229029144,
+  "longitude": -435629131
+ },
+ {
+  "key": "x0149",
+  "Nome": "REX SHOPPING METRÔ BOULEVARD TATUAPÉ",
+  "latitude": -235385380,
+  "longitude": -465755367
+ },
+ {
+  "key": "x0154",
+  "Nome": "REX BELFORD ROXO - FLORIPES DA ROCHA",
+  "latitude": -227626139,
+  "longitude": -434001352
+ },
+ {
+  "key": "x0155",
+  "Nome": "REX JARDIM ODETE",
+  "latitude": -234375661,
+  "longitude": -462783630
+ },
+ {
+  "key": "x0156",
+  "Nome": "REX CIDADE KEMEL",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0157",
+  "Nome": "REX JARDIM SÃO LUIZ",
+  "latitude": -236529672,
+  "longitude": -467345900
+ },
+ {
+  "key": "x0158",
+  "Nome": "REX ASSAÍ CARAPICUÍBA",
+  "latitude": -235199333,
+  "longitude": -468355292
+ },
+ {
+  "key": "x0162",
+  "Nome": "REX MARQUESA TAIPAS",
+  "latitude": -234350722,
+  "longitude": -467173666
+ },
+ {
+  "key": "x0141",
+  "Nome": "REX PREZUNIC CENTER",
+  "latitude": -227915780,
+  "longitude": -433120065
+ },
+ {
+  "key": "x0150",
+  "Nome": "REX METRÔ SÃO BENTO",
+  "latitude": -235443802,
+  "longitude": -466341235
+ },
+ {
+  "key": "x0159",
+  "Nome": "REX METRÔ CENTRAL DO BRASIL",
+  "latitude": -229110207,
+  "longitude": -432133713
+ },
+ {
+  "key": "x0163",
+  "Nome": "REX CALÇADÃO PERUS",
+  "latitude": -237039322,
+  "longitude": -474244494
+ },
+ {
+  "key": "x0164",
+  "Nome": "REX SHOPPING BAY MARKET III",
+  "latitude": -228920016,
+  "longitude": -431245833
+ },
+ {
+  "key": "x0165",
+  "Nome": "REX DAVÓ ORATÓRIO",
+  "latitude": -236016639,
+  "longitude": -465311519
+ },
+ {
+  "key": "x0152",
+  "Nome": "REX ESTAÇÃO SANTA CRUZ",
+  "latitude": -229182524,
+  "longitude": -436872989
+ },
+ {
+  "key": "x0188",
+  "Nome": "REX VILA TALARICO",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0167",
+  "Nome": "REX SUPERVIA PAVUNA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0168",
+  "Nome": "REX ITAQUAQUECETUBA CENTRO",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0170",
+  "Nome": "REX EXTRA CIDADE OCEAN",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0171",
+  "Nome": "REX EXTRA CIDADE TIRADENTES",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0172",
+  "Nome": "REX EXTRA VILA SÃO JOSÉ",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0173",
+  "Nome": "REX GUAIANAZES CPTM",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0174",
+  "Nome": "REX VILA JOANIZA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0175",
+  "Nome": "REX GUANABARA PENHA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0160",
+  "Nome": "REX METRÔ SÃO BENTO 2",
+  "latitude": -235441728,
+  "longitude": -466340968
+ },
+ {
+  "key": "x0161",
+  "Nome": "REX SUPERMERCADO ROSSI",
+  "latitude": -235340739,
+  "longitude": -464000668
+ },
+ {
+  "key": "x0183",
+  "Nome": "REX FRANCO DA ROCHA 2",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0184",
+  "Nome": "REX FARIA LIMA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0185",
+  "Nome": "REX D'AVÓ GUAIANAZES",
+  "latitude": -235380507,
+  "longitude": -464294109
+ },
+ {
+  "key": "x0186",
+  "Nome": "REX D'AVÓ SBC",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0178",
+  "Nome": "REX EXTRA CARAPICUÍBA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0180",
+  "Nome": "REX GUANABARA CAMPO GRANDE",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0181",
+  "Nome": "REX SANTO ANDRÉ TERMINAL OESTE",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0182",
+  "Nome": "REX SHOPPING ARICANDUVA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0235",
+  "Nome": "REX ESTAÇÃO URUGUAIANA (METRÔ RJ)",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0253",
+  "Nome": "REX SUPERMERCADO NEGREIROS",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0052",
+  "Nome": "REX CARREFOUR VILA RIO",
+  "latitude": -236384441,
+  "longitude": -466603713
+ },
+ {
+  "key": "x0054",
+  "Nome": "REX SÃO GONÇALO",
+  "latitude": -234479528,
+  "longitude": -465728789
+ },
+ {
+  "key": "x0069",
+  "Nome": "REX PERUS",
+  "latitude": -234067300,
+  "longitude": -467571403
+ },
+ {
+  "key": "x0067",
+  "Nome": "REX EXTRA BRIGADEIRO",
+  "latitude": -235681550,
+  "longitude": -466494317
+ },
+ {
+  "key": "x0068",
+  "Nome": "REX SOCORRO",
+  "latitude": -236663785,
+  "longitude": -467125556
+ },
+ {
+  "key": "x0073",
+  "Nome": "REX BRIGADEIRO - JARDINS",
+  "latitude": -235681550,
+  "longitude": -466494317
+ },
+ {
+  "key": "x0075",
+  "Nome": "REX MADUREIRA SHOPPING",
+  "latitude": -228704960,
+  "longitude": -433415020
+ },
+ {
+  "key": "x0077",
+  "Nome": "REX PROMOINFO CENTRO",
+  "latitude": -229053968,
+  "longitude": -431775176
+ },
+ {
+  "key": "x0078",
+  "Nome": "REX NOVA IGUAÇU - CORONEL SOARES",
+  "latitude": -227608615,
+  "longitude": -434468844
+ },
+ {
+  "key": "x0094",
+  "Nome": "REX NITERÓI - WALTER GONÇALVES",
+  "latitude": -228947657,
+  "longitude": -431206911
+ },
+ {
+  "key": "x0095",
+  "Nome": "REX DUQUE DE CAXIAS - NILO PEÇANHA",
+  "latitude": -227857376,
+  "longitude": -433218867
+ },
+ {
+  "key": "x0096",
+  "Nome": "REX SHOPPING LARGO 13",
+  "latitude": -236527622,
+  "longitude": -467124000
+ },
+ {
+  "key": "x0097",
+  "Nome": "REX EXTRA JOÃO DIAS",
+  "latitude": -236555284,
+  "longitude": -467243254
+ },
+ {
+  "key": "x0098",
+  "Nome": "REX FRANCO DA ROCHA",
+  "latitude": -233286420,
+  "longitude": -467265669
+ },
+ {
+  "key": "x0099",
+  "Nome": "REX PRESIDENTE VARGAS",
+  "latitude": -229022408,
+  "longitude": -431810463
+ },
+ {
+  "key": "x0100",
+  "Nome": "REX SANTO ANDRÉ - VILA LUZITA",
+  "latitude": -236677142,
+  "longitude": -465143223
+ },
+ {
+  "key": "x0240",
+  "Nome": "REX METRÔ CCR HIGIENÓPOLIS MACKENZIE",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0260",
+  "Nome": "REX CARIOCA SHOPPING",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0266",
+  "Nome": "REX ASSAÍ SÃO MIGUEL",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0267",
+  "Nome": "REX MADUREIRA II",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0269",
+  "Nome": "REX EXTRA LARGO 13",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0272",
+  "Nome": "REX ESTAÇÃO SAENS PEÑA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0273",
+  "Nome": "REX PREZUNIC SANTA CRUZ",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0275",
+  "Nome": "REX BANGU ARY FRANCO",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0277",
+  "Nome": "REX ASSAÍ DIADEMA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0278",
+  "Nome": "REX SÃO JOÃO DO MERITI",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0279",
+  "Nome": "REX EXTRA VILA ISABEL",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0280",
+  "Nome": "REX CCR ESTAÇÃO BROOKLIN",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0281",
+  "Nome": "REX COMPRE BEM SÃO MIGUEL",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0282",
+  "Nome": "REX EXTRA CAMBUCI",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0284",
+  "Nome": "REX EXTRA GUARULHOS COCAIA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0285",
+  "Nome": "REX EXTRA JARDIM ÂNGELA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0286",
+  "Nome": "REX EXTRA RIO BRANCO",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0288",
+  "Nome": "REX MARACANÃ",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0289",
+  "Nome": "REX SANTA CRUZ SHOPPING RJ",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0290",
+  "Nome": "REX SHOPPING TABOÃO (QUIOSQUE)",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0291",
+  "Nome": "REX EXTRA GUARUJÁ",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0292",
+  "Nome": "REX EXTRA COLINAS",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0293",
+  "Nome": "REX INOÃ CENTER",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0295",
+  "Nome": "EXTRA JAGUARÉ",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0294",
+  "Nome": "REX RAPOSO SHOPPING",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0296",
+  "Nome": "AQUARIUS",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0061",
+  "Nome": "REX SANTA EFIGÊNIA",
+  "latitude": -235405129,
+  "longitude": -466373723
+ },
+ {
+  "key": "x0239",
+  "Nome": "REX SHOPPING PÁTIO ALCÂNTARA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0193",
+  "Nome": "REX GUAPIRA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0190",
+  "Nome": "REX ESTAÇÃO FERROVIÁRIA NOVA IGUAÇU",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0191",
+  "Nome": "REX ESTAÇÃO FERROVIÁRIA BANGU",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0194",
+  "Nome": "REX GUARULHOS PRAÇA GETÚLIO VARGAS",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0196",
+  "Nome": "REX SHOPPING BONSUCESSO",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0197",
+  "Nome": "REX SUZANO SHOPPING",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0198",
+  "Nome": "REX SAPOPEMBA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0200",
+  "Nome": "REX PARELHEIROS",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0201",
+  "Nome": "REX JOÃO RIBEIRO",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0202",
+  "Nome": "REX ALCÂNTARA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0203",
+  "Nome": "REX COPACABANA II",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0204",
+  "Nome": "REX CRUZEIRO DO SUL",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0207",
+  "Nome": "REX ALFÂNDEGA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0208",
+  "Nome": "REX BOTAFOGO",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0209",
+  "Nome": "REX EXTRA VITAL BRASIL",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0221",
+  "Nome": "REX SHOPPING INTERNACIONAL DE GUARULHOS",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0210",
+  "Nome": "REX EXTRA ABOLIÇÃO",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0229",
+  "Nome": "REX GUANABARA - VALQUEIRE",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0234",
+  "Nome": "REX SUZANO - GLICÉRIO (CPTM)",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0192",
+  "Nome": "REX QUIOSQUE ESTAÇÃO FERROVIÁRIA CENTRAL DO BRASIL II",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0222",
+  "Nome": "REX LARGO TREZE",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0223",
+  "Nome": "REX EXTRA RICARDO JAFET",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0224",
+  "Nome": "REX MADUREIRA (MERCADÃO)",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0236",
+  "Nome": "REX QUEIMADOS",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0251",
+  "Nome": "REX SOROCABA (CENTRO)",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0195",
+  "Nome": "REX EXTRA JARAGUÁ",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0199",
+  "Nome": "REX PARTAGE SHOPPING SÃO GONÇALO",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0216",
+  "Nome": "REX GUARULHOS - PRAÇA DOS ESTUDANTES",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0213",
+  "Nome": "REX GRAJAÚ (CPTM)",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0214",
+  "Nome": "REX STYLLUS ARUJÁ",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0218",
+  "Nome": "REX ESTAÇÃO COELHO NETO (METRÔ RJ)",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0226",
+  "Nome": "REX HIGA'S - ITAQUERA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0227",
+  "Nome": "REX HIGA'S - ITAIM PAULISTA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0230",
+  "Nome": "REX GUANABARA - SANTA CRUZ",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0231",
+  "Nome": "REX GUANABARA - TIJUCA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0232",
+  "Nome": "REX SUPERVIA BANGU",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0233",
+  "Nome": "REX CAMPO GRANDE 3",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0249",
+  "Nome": "REX JARDIM CAMARGO NOVO",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0250",
+  "Nome": "REX CUBATÃO",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0252",
+  "Nome": "REX EXTRA VILA DAS MERCÊS",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0241",
+  "Nome": "REX METRÔ CCR SANTA CRUZ",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0242",
+  "Nome": "REX METRÔ CCR AACD SERVIDOR",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0243",
+  "Nome": "REX METRÔ CCR HOSPITAL SÃO PAULO",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0244",
+  "Nome": "REX METRÔ CCR MOEMA",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0245",
+  "Nome": "REX METRÔ CCR BORBA GATO",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0246",
+  "Nome": "REX METRÔ CCR ADOLFO PINHEIRO",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0247",
+  "Nome": "REX METRÔ CCR VILA DAS BELEZAS",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0248",
+  "Nome": "REX METRÔ CCR CAPÃO REDONDO",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0255",
+  "Nome": "REX CENTRAL DO BRASIL (SUBSOLO)",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0259",
+  "Nome": "REX JARDIM ÂNGELA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0261",
+  "Nome": "REX CAXIAS SHOPPING",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "x0262",
+  "Nome": "REX ASSAÍ INDAIATUBA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ },
+ {
+  "key": "x0271",
+  "Nome": "REX ESTAÇÃO JARDIM DE ALAH (METRÔ RJ)",
+  "latitude": "NULL",
+  "longitude": "NULL"
+ },
+ {
+  "key": "p0001",
+  "Nome": "RADIAL (POSTO H)",
+  "latitude": -235390451,
+  "longitude": -465690009
+ },
+ {
+  "key": "h0502",
+  "Nome": "METRÔ PAVUNA",
+  "latitude": "0.0000000",
+  "longitude": "0.0000000"
+ }
+]
